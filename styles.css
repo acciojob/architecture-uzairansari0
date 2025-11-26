@@ -1,1 +1,32 @@
 /*  your css code here. If applicable */
+.main {
+        width: 1100px;
+        margin: 0 auto;
+      }
+      .imageContainer img {
+        width: 50%;
+        height: auto;
+        display: block;
+      }
+      .flCol {
+        width: 200px;
+      }
+
+      .flCol img {
+        height: auto;
+        display: block;
+      }
+
+      .midCol {
+        width: 600px;
+      }
+      .architecture-table {
+        border: 1px solid rgb(128, 125, 125);
+        margin-top: 10px;
+      }
+      .architecture-table td {
+        border: 1px solid rgb(128, 125, 125);
+        text-align: center;
+        vertical-align: middle;
+        padding: 10px;
+      }
